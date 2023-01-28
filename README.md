@@ -1,3 +1,5 @@
+# **Mysql Replications**
+
 ### **Introduction**
 MySQL replication is the process which a single data set, stored in a MySQL database, will be live-copied to a second server. This configuration, called master-slave replication, is a typical setup. The Other setup will be better because master-master replication allows data to be copied from either server to the other one. This setup allows us to perform MySQL reads or writes from either server. This configuration adds redundancy and increases efficiency when dealing with accessing the data.
 
