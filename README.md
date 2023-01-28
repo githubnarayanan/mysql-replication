@@ -349,4 +349,4 @@ RESET SLAVE;
 START SLAVE;
 ```
 ### **Outcome**
-Successfully deployed MySQL Multi-Master Replication.
+Successfully deployed MySQL Multi-Master and Master-Slave Replications.
